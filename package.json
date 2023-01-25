@@ -1,0 +1,23 @@
+{
+  "name": "agdanese",
+  "version": "1.0.0",
+  "description": "Website for agdagnese",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LDagnese/agdanese.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LDagnese/agdanese/issues"
+  },
+  "homepage": "https://github.com/LDagnese/agdanese#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
